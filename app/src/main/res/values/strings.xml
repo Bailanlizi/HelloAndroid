@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">汇率换算器</string>
+    <string-array name="currencies">
+        <item>人民币 (CNY)</item>
+        <item>美元 (USD)</item>
+        <item>欧元 (EUR)</item>
+        <item>日元 (JPY)</item>
+    </string-array>
+</resources>
